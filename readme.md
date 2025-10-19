@@ -1,0 +1,1 @@
+Bu ödevde figmadaki hero-saas adlı tasarımı koda dökmeye çalışacağım
